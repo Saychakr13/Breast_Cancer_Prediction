@@ -6,4 +6,4 @@ Using the Breast Cancer Wisconsin (Diagnostic) Database, we can create a classif
 
 <h3>Ideas for more advanced prediction techniques</h3>
 Here I have experimented only with very basic models, the major reason being the small size of the dataset. If I had more data then I could have experimented with more complex models like ANN, Randomforest Classifier, XGBoost. These could have been used as baseline models in addition to the already implemented ones and the further stacking or even cascading could've been done quiet easily if a larger dataset had been given. 
-Have a look at <a href="https://github.com/Saychakr13/Cancer-Diagnosis"><u>ADVANCED CANCER DIAGNOSIS WITH TEXTUAL DATA</u></a> for a greater insight on how to handle such classification problems if you have a decent amount of data.
+Have a look at <a href="https://github.com/Saychakr13/Cancer-Diagnosis"><u>ADVANCED CANCER DIAGNOSIS USING TEXTUAL DATA</u></a> for a greater insight on how to handle such classification problems if you have a decent amount of data.
